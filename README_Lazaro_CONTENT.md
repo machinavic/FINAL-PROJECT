@@ -33,7 +33,7 @@
   3. Optional: What price range is most liked by consumers. 
 
 #### Machine Learning Questions: 
-  1. Will consumers purchase the type of wine we choose to produce based on their reviews? **Responsible: Jonathan Ravelo**
+  1. Will consumers purchase the type of wine we choose to produce based on their reviews? **Responsible: Jordan Ravelo**
 
   2. Do popular buzz words lead to higher reviews? (Break down the description of the wines to find the most popular words used to describe the alcohol and determine if these popular words associate to higher reviews) **Responsible: Lazaro Carballea**
 
